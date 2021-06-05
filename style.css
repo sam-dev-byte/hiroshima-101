@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    font-size: large;
+    color: whitesmoke; }
+h1{
+    font-family: sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    color: whitesmoke;
+}
+h2{
+    text-decoration:underline double;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+  p{
+      color: whitesmoke;
+      font-size: larger;
+  }
+  img{
+    float: right;
+  }
+  span{
+      color: yellow;
+  }
