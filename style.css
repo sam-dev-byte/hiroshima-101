@@ -1,12 +1,12 @@
 *{
-    padding: co;
+    padding: 0;
     
 }
 header{
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
     color: rgb(219, 182, 18);
-      
+    line-height: content:   
  }
 
  .navbar{
@@ -54,12 +54,7 @@ div {
     margin: 6px 0;
     
   }
-  p{
-      color: whitesmoke;
-      font-size: larger;
-      font-family: sans-serif;
-  }
-  img{
+ img{
     float: right;
   }
   div{
@@ -77,10 +72,5 @@ div {
       line-height: 30px;
       box-sizing: inherit;
   }
-
 img{float: right;
 }
-
-
-      
-  
